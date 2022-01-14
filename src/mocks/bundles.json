@@ -1,0 +1,302 @@
+[
+  {
+    "id": "0647b5d7-2062-4582-a2b1-5419b902c9d7",
+    "store": "Publix",
+    "orders": 7,
+    "type": "Bundles"
+  },
+  {
+    "id": "ce29658d-9b07-492f-af8f-c46325813fad",
+    "store": "CVS",
+    "orders": 7,
+    "type": "Bundles"
+  },
+  {
+    "id": "658eba5b-1c9f-4994-b711-3e97abd9c422",
+    "store": "CVS",
+    "orders": 7,
+    "type": "Bundles"
+  },
+  {
+    "id": "e42cee15-9742-4082-be35-eb2b083ee3b5",
+    "store": "Publix",
+    "orders": 8,
+    "type": "Bundles"
+  },
+  {
+    "id": "74f79a9c-9ef2-401d-8781-899ee00c2890",
+    "store": "Publix",
+    "orders": 2,
+    "type": "Bundles"
+  },
+  {
+    "id": "953be50f-7440-4017-85ba-f8e24a464a03",
+    "store": "CVS",
+    "orders": 2,
+    "type": "Bundles"
+  },
+  {
+    "id": "289e0e3c-7091-4d10-a09c-e94e8fa0f5ac",
+    "store": "CVS",
+    "orders": 6,
+    "type": "Bundles"
+  },
+  {
+    "id": "274783f4-33e4-41a9-9b2a-20af452b5c20",
+    "store": "CVS",
+    "orders": 4,
+    "type": "Bundles"
+  },
+  {
+    "id": "7acd7d1c-f9ed-44b7-8a42-a27a2137636e",
+    "store": "CVS",
+    "orders": 8,
+    "type": "Bundles"
+  },
+  {
+    "id": "2054fae3-6d08-4631-bbb7-8994fb0e2ac3",
+    "store": "Target",
+    "orders": 2,
+    "type": "Bundles"
+  },
+  {
+    "id": "1ee9c511-a6f4-4fde-8c7f-f8352bf5cd56",
+    "store": "CVS",
+    "orders": 6,
+    "type": "Bundles"
+  },
+  {
+    "id": "4249b3a2-9935-4386-8d13-7394ece638a6",
+    "store": "CVS",
+    "orders": 5,
+    "type": "Bundles"
+  },
+  {
+    "id": "9e712d39-8e32-4287-90bc-bb62bdb707a7",
+    "store": "Publix",
+    "orders": 3,
+    "type": "Bundles"
+  },
+  {
+    "id": "69826df9-f4e6-4b8d-ba3e-18a93bcf1cef",
+    "store": "Publix",
+    "orders": 7,
+    "type": "Bundles"
+  },
+  {
+    "id": "2cf4343f-2fa1-4268-ba0c-afbac0724282",
+    "store": "Target",
+    "orders": 8,
+    "type": "Bundles"
+  },
+  {
+    "id": "97500ee8-a8ab-417e-8b21-f9429ca35499",
+    "store": "Target",
+    "orders": 5,
+    "type": "Bundles"
+  },
+  {
+    "id": "689413fc-08b3-41f1-885b-e7e420f524e2",
+    "store": "Publix",
+    "orders": 3,
+    "type": "Bundles"
+  },
+  {
+    "id": "405de546-ca0b-4a4a-aa67-da60182aa94d",
+    "store": "CVS",
+    "orders": 5,
+    "type": "Bundles"
+  },
+  {
+    "id": "8a0b0ca8-5581-4b49-b71c-19d1c49ecc11",
+    "store": "CVS",
+    "orders": 2,
+    "type": "Bundles"
+  },
+  {
+    "id": "914dd772-d611-4b83-a8a7-25a482c59b5f",
+    "store": "Publix",
+    "orders": 4,
+    "type": "Bundles"
+  },
+  {
+    "id": "ea2e9250-ab5f-4c6a-904b-0b2ad3b2d76d",
+    "store": "Publix",
+    "orders": 2,
+    "type": "Bundles"
+  },
+  {
+    "id": "30dc53a6-1fc4-4f14-8231-4d596330049c",
+    "store": "CVS",
+    "orders": 7,
+    "type": "Bundles"
+  },
+  {
+    "id": "643932c5-927c-4723-bfc0-601cc377bc6b",
+    "store": "CVS",
+    "orders": 7,
+    "type": "Bundles"
+  },
+  {
+    "id": "879071cb-8781-4aa4-ad7b-d3b009981adb",
+    "store": "Target",
+    "orders": 2,
+    "type": "Bundles"
+  },
+  {
+    "id": "863a8643-f1b3-49cb-ba5a-919d4e87f7ee",
+    "store": "CVS",
+    "orders": 2,
+    "type": "Bundles"
+  },
+  {
+    "id": "d69d4f79-0374-45a6-a379-d00d5e8917f4",
+    "store": "CVS",
+    "orders": 7,
+    "type": "Bundles"
+  },
+  {
+    "id": "893e6898-c98d-4d66-b4c3-796d791886b2",
+    "store": "Target",
+    "orders": 5,
+    "type": "Bundles"
+  },
+  {
+    "id": "4d637475-f02b-466b-bc4c-44fcac975133",
+    "store": "Target",
+    "orders": 4,
+    "type": "Bundles"
+  },
+  {
+    "id": "691bfea5-a2dc-4047-a901-c8bd603cf1d3",
+    "store": "CVS",
+    "orders": 6,
+    "type": "Bundles"
+  },
+  {
+    "id": "a0c5c173-abe8-4589-98b7-602adc585e93",
+    "store": "Target",
+    "orders": 2,
+    "type": "Bundles"
+  },
+  {
+    "id": "e377a8a6-90c7-4052-907f-a4e66be1502e",
+    "store": "Target",
+    "orders": 6,
+    "type": "Bundles"
+  },
+  {
+    "id": "2b8000dd-4793-42eb-8c9d-ab1526b3c858",
+    "store": "Target",
+    "orders": 3,
+    "type": "Bundles"
+  },
+  {
+    "id": "66d7ba1e-27fb-437c-bde5-c471a4c403bf",
+    "store": "CVS",
+    "orders": 5,
+    "type": "Bundles"
+  },
+  {
+    "id": "efbff612-f4da-43a3-a854-386e75f6af2d",
+    "store": "Target",
+    "orders": 6,
+    "type": "Bundles"
+  },
+  {
+    "id": "c0e55f63-542b-4815-ad3e-6d3dee58298a",
+    "store": "CVS",
+    "orders": 4,
+    "type": "Bundles"
+  },
+  {
+    "id": "0cb04959-44a0-4e93-8308-9f14555e0183",
+    "store": "Target",
+    "orders": 6,
+    "type": "Bundles"
+  },
+  {
+    "id": "993b9ddd-eef2-4ab3-9063-ea1f1af562e9",
+    "store": "CVS",
+    "orders": 5,
+    "type": "Bundles"
+  },
+  {
+    "id": "a59442b8-e768-41df-bbe5-f964c5ba1345",
+    "store": "Target",
+    "orders": 2,
+    "type": "Bundles"
+  },
+  {
+    "id": "550bed4b-9872-4a66-92c3-54d251ed167d",
+    "store": "CVS",
+    "orders": 4,
+    "type": "Bundles"
+  },
+  {
+    "id": "8fd80aee-7535-48f3-ac11-1ec6f0f9682b",
+    "store": "Publix",
+    "orders": 3,
+    "type": "Bundles"
+  },
+  {
+    "id": "6a535c5a-1eb6-4e75-b82b-07bc11030d4b",
+    "store": "Target",
+    "orders": 2,
+    "type": "Bundles"
+  },
+  {
+    "id": "32bd0b5f-29c6-4bbe-afa9-fa532a831c99",
+    "store": "Target",
+    "orders": 2,
+    "type": "Bundles"
+  },
+  {
+    "id": "0a318188-f0f6-40ca-8b29-88bcc8fd0f9e",
+    "store": "Target",
+    "orders": 3,
+    "type": "Bundles"
+  },
+  {
+    "id": "f858f8d5-be76-4eb4-ba3e-28ec215926e7",
+    "store": "Target",
+    "orders": 5,
+    "type": "Bundles"
+  },
+  {
+    "id": "b1beaaa0-536e-407a-8b44-d0b02259b958",
+    "store": "Target",
+    "orders": 2,
+    "type": "Bundles"
+  },
+  {
+    "id": "cdad7437-9c3a-4d1d-ae5d-0b3ebe0dd5c9",
+    "store": "Target",
+    "orders": 4,
+    "type": "Bundles"
+  },
+  {
+    "id": "f9ae4139-1efe-4b81-8823-b6a66201f0a6",
+    "store": "Publix",
+    "orders": 3,
+    "type": "Bundles"
+  },
+  {
+    "id": "c38f294e-ab4f-490f-9f66-b0a888179e2d",
+    "store": "Target",
+    "orders": 3,
+    "type": "Bundles"
+  },
+  {
+    "id": "50224ab4-acc7-4f05-b9b9-1a74f80fd3df",
+    "store": "Target",
+    "orders": 5,
+    "type": "Bundles"
+  },
+  {
+    "id": "33704086-11dd-4b9e-b805-87a1722cd550",
+    "store": "Target",
+    "orders": 7,
+    "type": "Bundles"
+  }
+]
