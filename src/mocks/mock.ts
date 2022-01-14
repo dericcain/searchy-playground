@@ -2,49 +2,9 @@ import orders from './orders.json'
 import bundles from './bundles.json'
 import members from './members.json'
 import shoppers from './shoppers.json'
+import { SearchTypes } from '../types'
 
-// type SearchTypes = 'Bundles' | 'Members' |
-
-type Bundle = {
-  id: string
-  store: string
-  orders: number
-  type: 'Bundle'
-}
-
-type Member = {
-  id: number
-  first_name: string
-  last_name: string
-  email: string
-  type: 'Members'
-}
-
-type Shopper = {
-  id: number
-  first_name: string
-  last_name: string
-  email: string
-  type: 'Shoppers'
-}
-
-type Order = {
-  id: number
-  shopper_first_name: string
-  shopper_last_name: string
-  member_first_name: string
-  member_last_name: string
-  type: "Orders"
-}
-
-export type SearchTypes = Bundle & Member & Shopper & Order
-
-export const results = [
-  ...bundles,
-  ...members,
-  ...shoppers,
-  ...orders,
-] as SearchTypes[]
+export const results: SearchTypes = [...bundles, ...members, ...shoppers, ...orders]
 
 // Top 100 films as rated by IMDb users. http://www.imdb.com/chart/top
 export const top100Films = [
@@ -172,4 +132,4 @@ export const top100Films = [
   { title: 'Snatch', year: 2000 },
   { title: '3 Idiots', year: 2009 },
   { title: 'Monty Python and the Holy Grail', year: 1975 },
-];
+]

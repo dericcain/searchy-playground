@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Boing';
+  font-weight: normal;
+  src: url("../fonts/Boing-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Boing';
+  font-weight: bold;
+  src: url("../fonts/Boing-Semibold.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Boing';
+  font-style: italic;
+  src: url("../fonts/Boing-Italic.woff") format("woff");
+}
+
+$system-font-stack: -apple-system, BlinkMacSystemFont, "avenir next", avenir, "helvetica neue", helvetica, Ubuntu, roboto, noto, "segoe ui", arial, sans-serif;
+$boing-font: Boing, $system-font-stack;
+
+body {
+  font: 14px $boing-font;
+}

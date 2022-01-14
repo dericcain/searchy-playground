@@ -1,9 +1,9 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState } from "react"
 
 const toggleOpenCommand = (setCount: Function) => (e: KeyboardEvent) => {
-  if (e.key === 'k' || e.metaKey) {
+  if (e.key === "k" || e.metaKey) {
     setCount((c: number) => c + 1)
-  } else if (e.key === 'Escape') {
+  } else if (e.key === "Escape") {
     setCount(0)
   }
 }
@@ -11,9 +11,9 @@ const toggleOpenCommand = (setCount: Function) => (e: KeyboardEvent) => {
 export const useOpenSearchy = (): boolean => {
   const [count, setCount] = useState(0)
   useEffect(() => {
-    document.addEventListener('keydown', toggleOpenCommand(setCount), false)
+    document.addEventListener("keydown", toggleOpenCommand(setCount), false)
     return () => {
-      document.removeEventListener('keydown', toggleOpenCommand(setCount), false)
+      document.removeEventListener("keydown", toggleOpenCommand(setCount), false)
     }
   }, [])
 
