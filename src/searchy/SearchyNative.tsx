@@ -6,7 +6,6 @@ import {
   makeStyles,
   TextField,
   Theme,
-  Typography,
 } from '@material-ui/core'
 import { Search } from '@material-ui/icons'
 import { Backdrop, Container, ListSection } from './Searchy.styles'
